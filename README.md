@@ -3,6 +3,6 @@ Secret Numbers Game was a game I developed to increase my skills as a software d
 
 
 ## Author
-Tiago Cristofolini (Linkedin: https://www.linkedin.com/in/tiago-cristofolini-83b902265/))
+Tiago Cristofolini (Linkedin: https://www.linkedin.com/in/tiago-cristofolini/))
 
 
