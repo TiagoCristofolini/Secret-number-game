@@ -1,5 +1,5 @@
 let drawnNumers = [];
-let maxNumber = 10;
+let maxNumber = 100;
 let secretNumber = createNumber ();
 let tentativas = 1;
 
@@ -10,7 +10,7 @@ function textOnScreen (tag, texto){
  }
 function firstMessage() {
     textOnScreen ("h1", "Secret number game");
-    textOnScreen ("p","Type a number between 1 and 10");
+    textOnScreen ("p","Type a number between 1 and 100");
 }
     firstMessage();
  
