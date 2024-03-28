@@ -1,5 +1,5 @@
 let drawnNumers = [];
-let maxNumber = 100;
+let maxNumber = 101;
 let secretNumber = createNumber ();
 let tentativas = 1;
 
@@ -13,7 +13,7 @@ function firstMessage() {
     textOnScreen ("p","Type a number between 1 and 100");
 }
     firstMessage();
- 
+
 
 function checkGuess () {
      let guess = document.querySelector("input").value;
